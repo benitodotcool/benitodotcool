@@ -6,7 +6,8 @@ Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.
 
 ## Our recent work
 
- 1. [alainsechas.com](http://www.alainsechas.com/) (`digital solutions` `visual identity` `artist`)
+ 1. [alainsechas.com](http://www.alainsechas.com/)
+    `digital solutions` `visual identity` `artist`
 
 
 ## Our contribution to the Internet
