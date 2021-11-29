@@ -4,10 +4,18 @@ Studio benitodotcool is a Paris based pluridisciplinary art direction studio led
 
 Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.cool).
 
-## Our recent work:
+## Our recent work
 
  1. [alainsechas.com](http://www.alainsechas.com/)
     `#digital solutions` `#visual identity` `#artist`
+
+
+## Our contribution to the Internet
+Since the studio has the necessary knowledge in typography and micro-typography and the ability to do creative development, we would like to set up a small javascript library that would allow, depending on the language, to correct some rules that are still impossible to implement.
+
+The project is still in its very early stages, however, if you are interested, please contact us. Any kind of help is appreciated.
+
+The respository linked to this project is [tiny-type-rules](https://github.com/benitodotcool/tiny-type-rules).
 
 <!--
 **benitodotcool/benitodotcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
