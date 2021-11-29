@@ -4,9 +4,7 @@ Studio benitodotcool is a Paris based pluridisciplinary art direction studio led
 
 Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.cool).
 
----
-
-Our recent work:
+## Our recent work:
 
  1. [alainsechas.com](http://www.alainsechas.com/)
     `#digital solutions` `#visual identity` `#artist`
