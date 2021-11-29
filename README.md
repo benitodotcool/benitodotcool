@@ -1,4 +1,6 @@
-### Hi there 👋
+# Studio benitodotcool
+
+Studio benitodotcool is a pluridisciplinary art direction studio led by [@benitodotcool](https://www.instagram.com/benitodotcool/)
 
 <!--
 **benitodotcool/benitodotcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
