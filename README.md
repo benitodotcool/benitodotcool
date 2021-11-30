@@ -6,7 +6,7 @@ Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.
 
 ## Our recent work
 
- 1. [alainsechas.com](http://www.alainsechas.com/)
+ 1. [alainsechas.com](https://frontend-alain-sechas-website.herokuapp.com/)
     `digital solution` `visual identity` `artist`
 
 
@@ -17,18 +17,3 @@ The project is still in its very early stages, however, if you are interested, p
 Any kind of help is appreciated.
 
 The respository linked to this project is [tiny-type-rules](https://github.com/benitodotcool/tiny-type-rules).
-
-<!--
-**benitodotcool/benitodotcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
