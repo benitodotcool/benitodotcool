@@ -6,8 +6,8 @@ Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.
 
 ## Our recent work
 
- 1. [alainsechas.com](https://frontend-alain-sechas-website.herokuapp.com/)
-    `digital solution` `visual identity` `artist`
+ 1. [alainsechas.com](https://www.alainsechas.com/)
+    `DEVELOPMENT` `DESIGN` `IDENTITY`
 
 
 ## Our contribution to the Internet
