@@ -7,8 +7,9 @@ Do not hesitate to contact us at [contact@benito.cool](mailto:tellmewhat@benito.
 ## Our recent work
 
  1. [alainsechas.com](https://www.alainsechas.com/)
-    `DEVELOPMENT` `DESIGN` `IDENTITY`
-
+    `DEVELOPMENT` `DESIGN` `IDENTITY` `ANIMATION` `2022`
+ 1. [alainsechas.com](https://www.alainsechas.com/)
+    `DEVELOPMENT` `DESIGN` `IDENTITY` `2021`
 
 ## Our contribution to the Internet
 Since the studio has the necessary knowledge in typography and micro-typography and the ability to do creative development, we would like to set up a small javascript library that would allow, depending on the language, to correct some rules that are still impossible to implement.
